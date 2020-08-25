@@ -1,19 +1,20 @@
-## Hi 👋 I'm Walter Nam and I'm a Computer Science Student at CWRU!
+## Hi 👋 I'm Walter and I'm a Computer Science Student at CWRU!
 
 ### Here's what I've been up to this year
 
-- 🔭 I’m currently working on a Deep Reinforcement Learning AI to break Tetris
-- 🌱 I will be participating in the PennApps Fall 2020 Hackathon!
-- 👯 I’m looking to collaborate with other developers on some cool open source stuff
-- ⚡ Fun fact: I love to draw and also have an art website where I post my stuff. 
+- I’m currently working on a Deep Reinforcement Learning AI to break Tetris
+- I will be participating in the PennApps Fall 2020 Hackathon!
+- I’m looking to collaborate with other developers on some cool open source stuff
+- I love to draw and also have an art website where I post my stuff. 
 
-### Connect with me:
+### More about me:
 
 [<img align="left" alt="wnam98.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="wnam98 | Art" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stylus.svg" />][art]
 [<img align="left" alt="wnam98 | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="wnam98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="wnam98 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="wnam98 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/artrepreneur.svg" />][artrepreneur]
 
 <br />
 
@@ -51,3 +52,4 @@
 [leetcode]: https://leetcode.com/wnam98/
 [linkedin]: https://linkedin.com/in/wnam98/
 [art]: https://walternamart.weebly.com/
+[artrepreneur]: https://artrepreneur.com/p/wnam98
