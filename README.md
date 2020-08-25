@@ -1,6 +1,6 @@
 ### Hi there, I'm Walter 👋
 
-## I'm a Computer Science Student at Case Western Reserve University! My area of interests are in Software Engineering and Deep Learning!
+## Here's what I've been up to this year
 
 - 🔭 I’m currently working on a Deep Reinforcement Learning AI to break Tetris
 - 🌱 I will be participating in the PennApps Fall 2020 Hackathon!
@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="wnam98.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="wnam98 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="wnam98 | Art" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stylus.svg" />][art]
 [<img align="left" alt="wnam98 | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="wnam98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="wnam98 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
@@ -41,19 +41,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="wnam98 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wnam98&show_icons=true&hide_border=true" />
@@ -64,3 +51,4 @@
 [hackerrank]: https://hackerrank.com/wnam98/
 [leetcode]: https://leetcode.com/wnam98/
 [linkedin]: https://linkedin.com/in/wnam98/
+[art]: https://walternamart.weebly.com/
