@@ -3,7 +3,7 @@
 ### Here's what I've been up to this year
 
 - I’m currently working on a Deep Reinforcement Learning AI to break Tetris
-- I will be participating in the PennApps Fall 2020 Hackathon!
+- I will be participating in the PennApps Fall 2020 Hackathon! :computer:
 - I’m looking to collaborate with other developers on some cool open source stuff
 - I love to draw and also have an art website where I post my stuff. 
 
