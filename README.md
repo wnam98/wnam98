@@ -49,7 +49,7 @@
 
 [website]: https://wnam98.github.io/personal-website/
 [hackerrank]: https://hackerrank.com/wnam98/
-[leetcode]: https://leetcode.com/wnam98/
+[leetcode]: https://leetcode.com/wnam/
 [linkedin]: https://linkedin.com/in/wnam98/
 [art]: https://walternamart.weebly.com/
 [artrepreneur]: https://artrepreneur.com/p/wnam98
