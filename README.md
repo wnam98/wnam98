@@ -14,6 +14,7 @@
 [<img align="left" alt="wnam98 | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="wnam98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="wnam98 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="wnam98 | DevPost" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devpost.svg" />][devpost]
 [<img align="left" alt="wnam98 | Artrepeneur" width="22px" src="https://pbs.twimg.com/profile_images/1179083023188463616/-xZ-jw9C.jpg" />][artrepreneur]
 
 <br />
@@ -49,6 +50,7 @@
 
 [website]: https://wnam98.github.io/personal-website/
 [hackerrank]: https://hackerrank.com/wnam98/
+[devpost]: https://devpost.com/wnam98?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 [leetcode]: https://leetcode.com/wnam/
 [linkedin]: https://linkedin.com/in/wnam98/
 [art]: https://walternamart.weebly.com/
