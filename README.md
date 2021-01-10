@@ -5,7 +5,6 @@
 - I’m currently working on a Deep Reinforcement Learning AI to break Tetris :video_game:
 - I've built a MobileNet for the Fall 2020 PennApps Hackathon! :computer:
 - I will be participating in the HackCWRU 2021 Hackathon! :computer:
-- I’m working as a backend engineer for Dawn.so :bulb:
 - I love to draw and also have an art website where I post my stuff :art: 
 
 ### More about me:
