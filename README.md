@@ -1,4 +1,4 @@
-## Hi 👋 I'm Walter and I'm a Computer Science Student at CWRU!
+## My Personal GitHub ReadMe
 
 ### Here's what I've been up to this year
 
