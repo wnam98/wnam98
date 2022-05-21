@@ -2,8 +2,8 @@
 
 ### Here's what I've been up to this year
 
-- I’m currently working on a Deep Reinforcement Learning AI to break Tetris :video_game:
-- I've built a MobileNet for the Fall 2020 PennApps Hackathon! :computer:
+- I have participated in multiple hackathons and was interned at Proofpoint as a software engineer! :video_game:
+- I have finished up my degree in Computer Science and am seeking fulltime roles! :computer:
 - I love to draw and also have an art website where I post my stuff :art: 
 
 ### More about me:
