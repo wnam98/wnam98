@@ -40,11 +40,13 @@
 <br />
 <br />
 
+<!--
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="wnam98 Github Stats" src="https://github-readme-stats.vercel.app/api?username=wnam98&show_icons=true&hide_border=true" />
 
 </details>
+-->
 
 [website]: https://wnam98.github.io/personal-website/
 [hackerrank]: https://hackerrank.com/wnam98/
