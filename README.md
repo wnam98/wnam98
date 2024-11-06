@@ -2,7 +2,7 @@
 
 ### Here's what I've been up to this year
 
-- I have finished up my degree in Computer Science and am currently a C# engineer at Avery Dennison! :computer:
+- I have finished up my degree in Computer Science :computer:
 - I have participated in multiple hackathons and interned at Proofpoint as a software engineer! :video_game:
 - I love to draw and also have an art website where I post my stuff :art: 
 
