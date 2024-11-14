@@ -1,9 +1,9 @@
 ## My Personal GitHub ReadMe
 
-### Here's what I've been up to this year
+### Here's what I've been up to
 
 - I have finished up my degree in Computer Science :computer:
-- I have participated in multiple hackathons and interned at Proofpoint as a software engineer! :video_game:
+- I have participated in multiple hackathons and worked at Proofpoint and Avery Dennison as a C# engineer :video_game:
 - I love to draw and also have an art website where I post my stuff :art: 
 
 ### More about me:
